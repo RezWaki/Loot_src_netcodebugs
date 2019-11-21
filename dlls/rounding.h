@@ -1,0 +1,1 @@
+int		iRoundNum = 0; //none of rounds is played
